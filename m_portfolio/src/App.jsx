@@ -53,7 +53,7 @@ const SKILLS = [
 const PROJECTS = [
   { id:"01", name:"Space Hunt", type:"Programmation",
   desc:"Ce projet avait pour but de coder entièrement un ancien jeux vidéo nommé Duck Hunt. En se basant sur la version original du jeux, j'ai fais le choix de le faire dans un univers spatial. L'objectif est de tuer tous les aliènes sans les laisser s'échapper. Il y a un système de vie qui donne la possibilité aux joueurs d'avoir 5 tentatives pour réussir. Plus un joueur tue les aliènes plus son score augmente.",
-  video:"/video/Hunter.mp4",
+  video:"../video/Hunter.mp4",
   duree:"4 semaines",
   fonction:"Jeux vidéo",
   memo:"Vidéo non représentatif du projet final",
@@ -62,7 +62,7 @@ const PROJECTS = [
 
   { id:"02", name:"Labyrinthe", type:"Programmation",
   desc:"Création et résolution d'un labyrinthe en prenant en compte différent algorithme.",
-  video:"/video/BSQ.mp4",
+  video:"../video/BSQ.mp4",
   duree:"2 semaines",
   fonction:"Algorithmie",
   memo:"Vidéo non représentatif du projet final",
@@ -71,7 +71,7 @@ const PROJECTS = [
 
   { id:"03", name:"Cars Univers", type:"IA/Programmation/Sécurité Informatique",
   desc:"Jeux vidéos fonctionnant uniquement avec des intelligences artificielles, ces derniers peuvent parler entre eux avec des messages crypté",
-  video:"/video/Arcade.mp4",
+  video:"../video/Arcade.mp4",
   duree:"6 semaines",
   fonction:"Jeux vidéo",
   memo:"Vidéo non représentatif du projet final",
@@ -80,7 +80,7 @@ const PROJECTS = [
 
   { id:"04", name:"CriptFile", type:"Sécurité Informatique",
   desc:"Logiciel de cryptage de fichier fonctionnant autant avec des images/vidéos qu'avec des fichiers de type '.txt'",
-  video:"/video/Hunter.mp4",
+  video:"../video/Hunter.mp4",
   duree:"3 semaines",
   fonction:"Cryptographie",
   memo:"Vidéo non représentatif du projet final",
